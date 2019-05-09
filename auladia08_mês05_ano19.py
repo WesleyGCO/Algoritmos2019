@@ -205,3 +205,38 @@
 # print("Total: R$ ", soma,)
 # dinheiro = float(input("Dinheiro: R$ "))
 # print("Troco: R$ ", dinheiro - soma, )
+
+# i = 0
+# soma = 0
+# while (True):
+#     temperatura = float(input("Temperatura: "))
+#     soma = soma + temperatura
+#
+#     i = i + 1
+#
+#     if (i == 7):
+#         break
+# media = soma / i
+#
+# print("Média das temperaturas: ", media,)
+
+# i = 0
+# soma = 0
+# 
+# while (True):
+#     nota = float(input("Nota: "))
+#     soma = soma + nota
+# 
+#     i = i + 1
+# 
+#     if (nota == -1):
+#         break
+# 
+# media = soma / i
+# print("Média: ", media,)
+
+# i = 0
+# soma = 0 
+# 
+# while (True):
+#     cd = int(input("Informe o número de CD's: "))
