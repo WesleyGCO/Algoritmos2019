@@ -92,3 +92,13 @@ for cont in range (0, len(v1)):
     v1 [cont] = int(input("Digite valores dentro do vetor: "))
 cont = cont + 1
 print(v1)
+
+#5
+# Apresente os números do vetor em ordem inversa.
+
+for cont in range (len(v1), 0):
+    cont = cont - 1
+print(v1)
+
+# Apresente a soma de todos os elementos.
+# Calcule a média aritmética dos valores.
