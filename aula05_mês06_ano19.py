@@ -234,3 +234,4 @@ tabuada = 1
 cont = 0
 
 while (cont < len(v1)):
+ 
