@@ -230,8 +230,14 @@ cont = cont + 1
 #     print(v1 [cont] * 2)
 #     cont = cont + 1
 
-tabuada = 1
-cont = 0
 
-while (cont < len(v1)):
- 
+
+cont = 0
+v1 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+# for cont in range (0, len(v1)):
+#     print(v1 [cont]* 2)
+
+for cont in range (0, len (v1)):
+    for x in range (0, len (v1)):
+        print("") 
