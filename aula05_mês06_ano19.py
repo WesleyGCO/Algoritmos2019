@@ -93,6 +93,7 @@ f) Mostre na tela a quantidade de números pares.
 # cont = cont + 1
 # print(v1)
 
+
 #5
 # Apresente os números do vetor em ordem inversa.
 
