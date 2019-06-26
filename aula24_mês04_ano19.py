@@ -1,6 +1,5 @@
 import random
 
-
 # aleatorio = random.uniform(15, 25) #[0 ~ 10]
 # print("Aleatório: ", aleatorio)
 
