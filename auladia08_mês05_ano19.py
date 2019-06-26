@@ -6,6 +6,7 @@
 #     print("Valor de cont ", cont)
 #     cont = cont + 1
 
+
 #Faça a soma dos números de 1 a 100 e apresente somente o resultado.
 
 # cont = 1
