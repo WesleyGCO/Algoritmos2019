@@ -20,3 +20,5 @@ num4 = float(input("Digite um número: "))
 num5 = float(input("Digite um número: "))
 num6 = float(input("Digite um número: "))
 print("multiplicação dos números é ", num4 * num5 * num6)
+
+
