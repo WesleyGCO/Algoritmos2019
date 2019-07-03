@@ -90,3 +90,4 @@ c = float(input("Digite o valor de C: "))
 x = b / (a + c)
 y = 2 * (a - b)
 z = 
+
