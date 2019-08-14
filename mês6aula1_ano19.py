@@ -195,9 +195,6 @@ cont = cont + 1
 # posinc = pos
 # posifinal = pos
 # for cont in range (0, len(v1)):
-#     #if (cont == 0):
-#        # maior = v1[cont]
-#        # menor = v1[cont]
 #     if(maior < v1[cont]):
 #         maior = v1[cont]
 #         posinc = pos
