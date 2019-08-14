@@ -84,3 +84,4 @@ def menuOpcoes():
         print("Você escolheu sair do programa")
 
 menuOpcoes()
+
