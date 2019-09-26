@@ -45,3 +45,28 @@ v1 = [90, 986, 435, 231, 543, 675, 1002, 985]
 #Exercício 9
 # x = funcoes.mediaVetor(v1)
 # print(x)
+
+#Exercício 10
+# print("Primeiro vetor: ", v1)
+# x = funcoes.dobro(v1)
+# print("Segundo vetor: ", x)
+
+#Exercício 11
+# x = funcoes.data()
+# print(x)
+
+#Exercício 12
+# x = funcoes.reverso(124)
+# print(x)
+
+#Exercício 13
+# x = funcoes.reversoNome("Wesley")
+# print(x)
+
+#Exercício 14
+# x = funcoes.vogal("Gabriel")
+# print(x)
+
+#Exercício 15
+# x = funcoes.embaralhado("Python")
+# print("Palavra embaralhada: ", x)
