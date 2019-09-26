@@ -18,7 +18,7 @@
 
 # =============================================
 
-#Exercício 3
+# Exercício 3
 
 # def mes(x):
 #     if (x == 1):
@@ -138,11 +138,82 @@
 
 #Exercício 10
 
-def dobro(a):
-    n = 0
-    v2 = [0]*8
-    for cont in range(0, len(a)):
-        dobro {}.format(n + 1) = v1[cont] * 2
-        n = n + 1
-    for cont in range(0, le)
+# def dobro(a):
+#     v2 = [0]*len(a)
+#     for cont in range(0, len(a)):
+#         dobro = a[cont] * 2
+#         v2[cont] = dobro
+#     return v2       
 
+# ================================================
+
+#Exercício 11
+
+# def data():
+#    dt = input("Digite uma data no formato DD/MM/AAAA: ")
+#    resultado = dt[0:2] + " de " + mes(int(dt[4:5])) + " de " + dt[6:]
+#    return resultado
+
+# ================================================
+
+#Exercício 12
+
+# def reverso(n):
+#     print("convertendo ", n)
+#     n = str(n)
+#     reverso = ""
+#     for cont in range(len(n)-1, -1, -1):
+#         reverso = reverso + n[cont]
+#     print("convertido ", reverso)
+#     reverso = int(reverso)
+#     return reverso
+
+# ================================================
+
+#Exercício 13
+
+# def reversoNome(l):
+#     print("Convertento ", l)
+#     reversoN = ""
+#     for cont in range(len(l) -1, -1, -1):
+#         reversoN = reversoN + l[cont]
+#     print("Convertido ", reversoN)
+#     reverso = str(reversoN)
+#     return reversoN
+
+# ================================================
+
+#Exercício 14
+
+# def vogal(w):
+#     print("Convertendo ", w)
+#     vogal = 0
+#     w = w.lower()
+#     v1 = ["a", "e", "i", "o", "u"]
+#     for cont in range(0, len(w)):
+#         if (w[cont] in v1):
+            # vogal = vogal + 1
+#     print("Convertido ", w)
+#     return vogal
+
+# ================================================
+
+#Exercício 15
+
+# def embaralhado(c):
+#     c = c.lower()
+#     # print("Convertendo ", c)
+#     import random
+#     vet = []
+
+#     for cont in range(0, len(c)):
+#         # #gera um número
+#         alea = random.randint(0, len(c) - 1)
+#         while (alea in vet):
+#             alea = random.randint(0, len(c) - 1)
+#         vet.append(alea)
+#     embaralhado = ""
+#     for cont in range(0, len(vet)):
+#         embaralhado = embaralhado + c[vet[cont]]
+    
+#     return embaralhado
