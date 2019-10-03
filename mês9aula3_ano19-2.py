@@ -38,3 +38,4 @@ def ler_dados(x):
 
     for lin in range(0, len(conteudo)):
         print("Nome:", conteudo[lin], end = "")
+        
