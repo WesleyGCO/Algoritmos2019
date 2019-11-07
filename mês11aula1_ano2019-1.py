@@ -1,3 +1,5 @@
+# AULA DIA 06/11/2019
+
 #--------------- Estrutura de dados heterogênea ------------------------------------
 
 # Em uma estrutura de dados heterogênea existem campos (atributos) e não índices;
